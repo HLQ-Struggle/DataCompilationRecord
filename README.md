@@ -1,7 +1,7 @@
 
 ![image](/Images/HLQ_Struggle.png)
 
-### <a href="/License" target="_blank">License</a>
+### [License](/LICENSE)
 
 Copyright HLQ_Struggle
 
