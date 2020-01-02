@@ -1,5 +1,5 @@
 
-![image](/Images/HLQ_Struggle.png)
+<p style="text-align: center;"><img src="/Images/HLQ_Struggle.png" alt="HLQ_Struggle 心语"></img></p>
 
 ### [License](/LICENSE)
 
