@@ -27,7 +27,7 @@ Android 小白一枚，磕磕绊绊依旧坚守 Android 之路，哇咔咔。
 附上个人链接：
 
 - [segmentfault](https://segmentfault.com/blog/hlq96)
-- [CSDN](heliquan.blog.csdn.net)  - 永久性退出
+- [CSDN](https://heliquan.blog.csdn.net)  - 永久性退出
 
 License
 =======
