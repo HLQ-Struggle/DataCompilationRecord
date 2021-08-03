@@ -2,7 +2,7 @@
 <p style="text-align: center;"><img src="/Images/HLQ_Struggle.png" alt="HLQ_Struggle 心语"></img></p>
 
 
-HLQ-Struggle
+HLQ-Struggle [![](https://jitpack.io/v/HLQ-Struggle/DataCompilationRecord.svg)](https://jitpack.io/#HLQ-Struggle/DataCompilationRecord)
 =======
 工作数年，回头看，并没有一个真正属于自己的小东西。
 
